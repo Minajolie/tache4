@@ -1,0 +1,55 @@
+.log input{
+    width: 50%;
+    border: none;
+    border-bottom: 2px solid black;
+    margin-bottom: 5px;
+    padding: 10px 10px 5px 5px;
+    transition: all .2s ease;
+}
+h1{
+    font-size: 1.5em;
+    color: orange;
+}
+span{
+    color:rgb(0, 150, 130)
+}
+.mot{
+    position: relative;
+    left: 270px;
+    text-decoration:none;
+    color: rgb(0, 150, 130)
+    
+}
+.con input{
+    width: 50%;
+    color: white;
+    padding: 10px 0;
+    background-color:rgba(4,137, 137) ;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+button{
+    display: flex;
+    width: 20%;
+    height: 50px;
+    background-color: white;
+    font-size: 15px;
+    margin-top: 10px;
+    align-items: center;
+}
+img{
+width: 80px;
+    float: left;
+    height: 45px;
+   margin-top: 0px;
+   margin-left: -7px;
+}
+
+.inner{
+    margin-left:-25px ;
+    color: black;
+}
+.conect{
+    font-weight: 300;
+    color:rgb(90, 88, 88);
+}
